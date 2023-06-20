@@ -1,0 +1,16 @@
+{
+	"front": {
+		"index": {
+			"title": "http://forum.codeigniter.com/",
+			"meta-title": "https://github.com/bcit-ci/CodeIgniter/wiki",
+			"meta-description": "https://codeigniterchat.slack.com",
+			"meta-keyword": "https://github.com/bcit-ci/CodeIgniter"
+		},
+		"test": {
+			"title": "http://forum.codeigniter.com/",
+			"meta-title": "https://github.com/bcit-ci/CodeIgniter/wiki",
+			"meta-description": "https://codeigniterchat.slack.com",
+			"meta-keyword": "https://github.com/bcit-ci/CodeIgniter"
+		}
+	}
+}
